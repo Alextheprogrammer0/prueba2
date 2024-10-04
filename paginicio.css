@@ -1,0 +1,36 @@
+.botonesDeInicio{
+    display: flex;
+    justify-content: center;
+    padding:10%;
+    margin: 10%;
+    }
+    
+    
+    
+    .iniciarSesion{
+    display: inline-block;
+    background-color: #16113098;
+    padding: 30px 50px;
+    border-radius: 100px;
+    color: #fff;
+    margin-right: 25;
+   font-size: medium;
+   margin-left:-150%;
+    }
+    
+    .Registrarse{
+    background-color: #16113098;
+    color: #fff;
+    border-radius: 100px;
+    display: inline-block;
+    margin-right: 40%;
+    padding: 30px 50px;
+    font-size: medium;
+    }
+
+    body{
+        text-align: center;
+        color: #262626;
+        background: url(img\ fondo\ incio.jpg);
+        background-size: cover;
+    }
